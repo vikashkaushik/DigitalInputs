@@ -1,8 +1,8 @@
 /*
  * Project DigitalInputs
- * Description:
- * Author:
- * Date:
+ * Description: turn on led by pressing button. stays off otherwise.
+ * Author: Vikash Kaushik
+ * Date: 6/30/21
  */
 SYSTEM_MODE(MANUAL);
 SYSTEM_THREAD(ENABLED);
